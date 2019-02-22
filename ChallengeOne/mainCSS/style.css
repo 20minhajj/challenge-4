@@ -1,0 +1,32 @@
+.cover {
+    background: url('../img/images.jpg') no-repeat center;
+    background-size:fit;
+}
+
+
+
+
+
+.transbox {
+    background-color: blueviolet;
+    color:black;
+
+}
+
+.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); 
+  }
+  
+ .transbox p { 
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+section{
+    margin: 20px;
+}

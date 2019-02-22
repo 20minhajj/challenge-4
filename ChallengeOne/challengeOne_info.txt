@@ -1,0 +1,16 @@
+The following below is description of ChallengeOne:
+
+Create web page using HTML, CSS, and JavaScript (20 points)
+You are required to code a website of a fake cooperation called FakeCodes.
+
+FakeCodes is a digital agency specialized in designing and developing websites, mobile solutions and digital marketing.
+Remember to include the following sections:
+
+	1. Clients
+	2. Testimonials
+	3. Contact us
+
+Important links:
+	1. OpenClassrooms - Build your first web pages with html and css 
+	2. OpenClassrooms - Create Web Page Layouts with CSS 
+Important note: Feel free to use a Bootstrap, a sword, a claw hammer, or any framework of choice.

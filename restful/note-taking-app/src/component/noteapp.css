@@ -1,0 +1,52 @@
+header {
+	background-color: rgb(18 , 79, 119);
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+footer {
+	background-color: rgb(18 , 79, 119);
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 150px;
+}
+footer form textarea,
+footer form input {
+	border: none;
+	border-bottom: 2px solid #fff;
+	background-color: rgb(18 , 79, 119);
+	outline: none;
+	color: black;
+	font-size: 14px;
+	display: block;
+	text-align: center;
+	margin: 0 auto ;
+	width: 50%;
+}
+footer form textarea {
+	height: 50px;
+	width: 50%;
+}
+footer form button {
+	padding :10px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: lightblue ;
+	margin-top: 20px;
+}
+.main-content ul {
+	text-align: center;
+	list-style: none;
+}
+.main-content ul li {
+	padding: 20px;
+	border-radius: 10px;
+	margin: 10px 0;
+	background-color: rgb( 66 , 173, 216);
+	color :#fff;
+}

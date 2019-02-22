@@ -1,0 +1,18 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Andela4"
+  },
+  "author": "20minhajj",
+  "license": "ISC",
+  "dependencies": {
+    "react-mdl": "^1.11.0"
+  }
+}
